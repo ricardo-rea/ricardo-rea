@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ricardo-rea
 - 📍 I'm from Curitiba, Brazil
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Arduino and ESP32
+- 🌱 I’m currently taking CS50
 
 <!---
 ricardo-rea/ricardo-rea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
